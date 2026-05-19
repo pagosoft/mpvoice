@@ -1,8 +1,4 @@
 {
-    "revoked": [
-        "8167-E9E3-A1A4"
-    ],
-    "reason": {
-        "8167-E9E3-A1A4": "测试中"
-    }
+    "revoked": [],
+    "reason": {}
 }
