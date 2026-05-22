@@ -1,6 +1,6 @@
 {
-    "version": "1.0.0",
-    "release_date": "2026-05-17",
-    "download_url": "",
-    "changelog": "首次发布"
+    "version": "1.0.1",
+    "release_date": "2026-05-21",
+    "download_url": "https://github.com/pagosoft/mpvoice/releases/download/V1.0.1/MPVoice_Client_Setup_1.0.1.exe",
+    "changelog": "修复语音播报第二次无声问题"
 }
