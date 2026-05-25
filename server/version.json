@@ -1,5 +1,5 @@
 {
-    "version": "1.0.1",
+    "version": "2.0.1",
     "release_date": "2026-05-21",
     "download_url": "https://github.com/pagosoft/mpvoice/releases/download/V2.01/MPVoice_Server_Setup_2.0.1.exe",
     "changelog": "作出一些调整，并且增加的Edge TTS在线语音引擎和PIPER TTS离线语音引擎。"
