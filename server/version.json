@@ -1,6 +1,6 @@
 {
     "version": "2.1.2",
-    "release_date": "2026-06-12",
-    "download_url": "https://github.com/pagosoft/mpvoice/releases/download/V2.0.3/MPVoice_Server_Setup_2.0.3.exe",
-    "changelog": "全新UI风格，并且调整一些功能。"
+    "release_date": "2026-06-13",
+    "download_url": "https://github.com/pagosoft/mpvoice/releases/download/V2.1.2/MPVoice_Server_Setup_2.1.2.exe",
+    "changelog": "调整UI风格，并且增加一些功能体验。"
 }
