@@ -1,6 +1,6 @@
 {
-    "version": "2.1.3",
-    "release_date": "2026-06-15",
-    "download_url": "https://github.com/pagosoft/mpvoice/releases/download/V2.1.3/MPVoice_Server_Setup_2.1.3.exe",
-    "changelog": "增加MP多账号绑定功能。"
+    "version": "2.3.3",
+    "release_date": "2026-06-30",
+    "download_url": "https://github.com/pagosoft/mpvoice/releases/download/V2.3.3/MPVoice_Server_Setup_2.3.3.exe",
+    "changelog": "优化体验，必须更新。"
 }
