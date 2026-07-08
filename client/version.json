@@ -1,6 +1,6 @@
 {
-    "version": "2.3.3",
-    "release_date": "2026-06-30",
-    "download_url": "https://github.com/pagosoft/mpvoice/releases/download/2.3.3/MPVoice_Client_Setup_2.3.3.exe",
-    "changelog": "优化体验，必须更新。"
+    "version": "3.0",
+    "release_date": "2026-07-08",
+    "download_url": "https://github.com/pagosoft/mpvoice/releases/download/3.0/MPVoice_Client_Setup_3.0.exe",
+    "changelog": "修改UI布局，增强体验。"
 }
