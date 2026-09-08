@@ -1,6 +1,6 @@
 {
-    "version": "3.0.5",
-    "release_date": "2026-08-15",
-    "download_url": "https://github.com/pagosoft/mpvoice/releases/download/3.0.5/MPVoice_Server_Setup_3.0.5.exe",
-    "changelog": "支持非局域网多服务端接收。"
+    "version": "3.1.0",
+    "release_date": "2026-09-05",
+    "download_url": "https://github.com/pagosoft/mpvoice/releases/download/V3.1.0/MPVoice_Server_Setup_3.1.0.exe",
+    "changelog": "优化系统的流畅，增强云链接。"
 }
