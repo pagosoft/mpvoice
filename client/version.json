@@ -1,6 +1,6 @@
 {
-    "version": "3.3.0",
-    "release_date": "2026-09-29",
-    "download_url": "https://github.com/pagosoft/mpvoice/releases/download/V3.2.9/MPVoice_Client_Setup_3.3.0.exe",
+    "version": "3.3.1",
+    "release_date": "2026-10-03",
+    "download_url": "https://github.com/pagosoft/mpvoice/releases/download/V3.2.9/MPVoice_Client_Setup_3.3.1.exe",
     "changelog": "• 全新UI布局，操作更直观\n• 新增加西班牙语\n• 增加MERCADO LIBRE识别"
 }
